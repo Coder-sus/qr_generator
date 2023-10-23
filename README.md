@@ -1,12 +1,12 @@
 # qr_generator
 Made a easy to use QR generator by nodeJS
 
-## Prerequisite
+## 📢Prerequisite
 
 - Must have a code editor.
 - Must have node.js installed in your system.
 
-## Steps 
+## 🌟Steps 
 
 - Clone my repository on your device by either of the two ways:
 
@@ -31,7 +31,7 @@ Made a easy to use QR generator by nodeJS
   ![image](https://github.com/Coder-sus/qr_generator/assets/85401609/9ffec3d3-66cf-4075-97b2-d9d03a913f58)
   
 
-## It works lol!
+## 🆗It works lol!
 
 
 ![image](https://github.com/Coder-sus/qr_generator/assets/85401609/e850b6a9-66ab-4346-bb5b-598b669676e1)
